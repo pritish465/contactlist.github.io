@@ -1,0 +1,55 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 0px 10px 0px;
+
+}
+  
+  
+  .contacts {
+    background-color: yellowgreen;
+    width: 350px;
+    height: 600px;
+    border: 5px solid black;
+    margin: 0 auto;
+    overflow: scroll;
+    padding: 40px;
+    padding: 0px 0px 0px 10px;
+  }
+
+  .contacts__title {
+    border: 5px solid red;
+    text-align: center;
+    height: 50px;
+    width: 90%;
+    background-color: rgb(158, 79, 15);
+  
+  }
+  
+  
+  .contacts__subtitle {
+    background-color: orange;
+    padding: 5px;
+    position: sticky;
+    top: 0px;
+    width: 95%;
+    border-radius: 7px;
+    border: 1px solid black;
+  }
+  
+  .contacts__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  
+  .contacts__item {
+    width: 90%;
+    height: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0px 0px 10px 5px;
+    background-color: brown;
+    color: black;
+  }
